@@ -1,0 +1,24 @@
+{
+  "class_names": [
+    "nao-fraturadas",
+    "fraturadas"
+  ],
+  "img_size": 224,
+  "use_filters": true,
+  "filtros": {
+    "denoise": "median",
+    "median_ksize": 3,
+    "percentil_baixo": 1,
+    "percentil_alto": 99,
+    "clahe": true,
+    "clahe_clip": 2.0,
+    "clahe_grid": [
+      8,
+      8
+    ],
+    "unsharp": true,
+    "unsharp_sigma": 1.5,
+    "unsharp_amount": 0.8,
+    "gamma": null
+  }
+}

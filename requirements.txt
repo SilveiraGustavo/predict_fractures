@@ -1,0 +1,77 @@
+absl-py==2.5.1
+asttokens @ file:///C:/Users/task_177313490604433/croot/asttokens_1773135664379/work
+astunparse==1.6.3
+certifi==2026.10.19
+charset-normalizer==3.5.2
+cloudpickle==3.1.2
+colorama @ file:///C:/Users/dev-admin/buildout/croot/colorama_1759952627215/work
+comm @ file:///C:/Users/dev-admin/buildout/croot/comm_1763637613849/work
+contourpy==1.4.0
+cycler==0.12.1
+debugpy @ file:///C:/Users/task_NPYugHE5SnSfF_1/croot/debugpy_1783355752307/work
+executing @ file:///C:/Users/task_178782632006753/croot/executing_1787826450940/work
+flatbuffers==25.12.19
+fonttools==4.67.0
+gast==0.7.0
+google-pasta==0.2.0
+grpcio==1.84.0
+h5py==3.15.1
+idna==3.20
+ipykernel @ file:///C:/Users/task_bqG17YynRsiU1_0/croot/ipykernel_1785763782607/work
+ipython @ file:///C:/Users/task_179015559838535/croot/ipython_1790155943775/work
+ipython_pygments_lexers @ file:///C:/Users/dev-admin/buildout/croot/ipython_pygments_lexers_1759956485878/work
+jedi @ file:///C:/Users/task_177868139722730/croot/jedi_1778681789694/work
+joblib==1.6.0
+jupyter_client @ file:///C:/Users/task_178885721257776/croot/jupyter_client_1788857925918/work
+jupyter_core @ file:///C:/Users/dev-admin/buildout/croot/jupyter_core_1765281302918/work
+keras-nightly==3.16.0.dev2026102004
+kiwisolver==1.5.1
+libclang==18.1.1
+markdown-it-py==4.2.0
+matplotlib==3.11.2
+matplotlib-inline @ file:///C:/Users/task_Yd1i5-UpSbKmO_0/croot/matplotlib-inline_1784795496600/work
+mdurl==0.1.2
+mkl-service @ file:///C:/Users/task_179140498120809/croot/mkl-service_1791405063774/work
+mkl_fft @ file:///C:/Users/task_179249791411697/croot/mkl_fft_1792498007128/work
+mkl_random @ file:///C:/Users/task_179140494120151/croot/mkl_random_1791405094107/work
+ml_dtypes==0.6.0
+namex==0.1.0
+narwhals==2.27.1
+nest-asyncio2 @ file:///C:/Users/task_e_ew0xsRQc2FO_0/croot/nest-asyncio2_1785322576754/work
+numpy @ file:///C:/Users/task_179249779749822/croot/numpy_and_numpy_base_1792498030124/work/dist/numpy-2.5.4-cp314-cp314-win_amd64.whl#sha256=aeeddcfb3a8012657700318cd99d399b6a4251fbe9982311dab36ab29629c75d
+opencv-python==5.0.0.93
+opt_einsum==3.4.0
+optree==0.20.0
+packaging==26.3
+pandas @ file:///C:/Users/task_179000073719718/croot/pandas_1790001665018/work
+parso @ file:///C:/Users/task_177867410244795/croot/parso_1778674223314/work
+pillow==13.0.0
+platformdirs @ file:///C:/Users/task_179120560829278/croot/platformdirs_1791205690850/work
+prompt_toolkit @ file:///C:/Users/task_Dzgh7DD9RTuCx_0/croot/prompt-toolkit-split_1785325200150/work
+protobuf==7.36.2
+psutil @ file:///C:/Users/task_LuKfbWNRSIiMo_0/croot/psutil_1784875544575/work
+pure_eval @ file:///C:/Users/task_179120829629084/croot/pure_eval_1791208375631/work
+Pygments @ file:///C:/Users/task_179034416802999/croot/pygments_1790344319118/work
+pyparsing==3.3.3
+python-dateutil @ file:///C:/Users/dev-admin/buildout/croot/python-dateutil_1759954839763/work
+pywin32 @ file:///C:/Users/task_178231514328711/croot/pywin32_1782315859793/work
+pyzmq @ file:///C:/Users/task_178939049548122/croot/pyzmq_1789390584043/work
+requests==2.34.2
+rich==15.0.0
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+six @ file:///C:/Users/dev-admin/buildout/croot/six_1759954493303/work
+stack_data @ file:///C:/Users/dev-admin/buildout/croot/stack_data_1759957300617/work
+tabulate==0.10.0
+tensorflow==2.22.0rc0
+termcolor==3.3.0
+threadpoolctl==3.7.0
+tornado @ file:///C:/Users/task_179085155659780/croot/tornado_1790852167603/work
+traitlets @ file:///C:/Users/task_177874327752383/croot/traitlets_1778743391161/work
+typing_extensions @ file:///C:/Users/task_NKia6fvQRj--m_0/croot/typing_extensions_1784101066632/work
+tzdata @ file:///home/task_179086392456221/croot/python-tzdata_1790864057293/work
+urllib3==2.8.0
+wcwidth @ file:///C:/Users/task_cF4C9s2uTjO5v_1/croot/wcwidth_1783584599834/work
+wheel==0.48.0
+wrapt==2.5.1
